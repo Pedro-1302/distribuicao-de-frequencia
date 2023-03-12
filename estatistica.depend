@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678643306 source:c:\users\mrcra\desktop\estatistica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
