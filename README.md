@@ -18,6 +18,7 @@
 ## Mediana
 É o valor que separa a metade maior da metade menor de uma amostra ordenada. 
   Ex: 1, 2, 2, 2, 4, 5. - > Mediana: (2 + 2) / 2 = 2.
+  
 ## Classe (k) 
 São intervalos de variação da variável. Pode ser calculada a partir da regra da raiz ou da regra de Sturges. 
 
@@ -40,11 +41,31 @@ São intervalos de variação da variável. Pode ser calculada a partir da regra
 </table>
 
 ## Amplitude Amostral 
+É a diferença entre o valor máximo e o valor mínimo da amostra.
 
+<table align="center">
+    <tr>
+        <td align="center"> 
+            <img src="https://media.discordapp.net/attachments/1029775754407452754/1084567517529395342/image.png" height=100px weight=100px>
+            <p style='text-align: right; margin-right: 40em; font-family: Serif;'><b> Amplitude Amostral </b></p>
+        </td>
+    </tr>
+</table>
 
-## Amplitude de Classe (h)
-## Amplitude de Intervalo 
+## Amplitude de Intervalo de Classe (h)
+É a medida do intervalo que define a classe. 
+
+<table align="center">
+    <tr>
+        <td align="center"> 
+            <img src="https://media.discordapp.net/attachments/1029775754407452754/1084568071307538634/opera_gbO78IajPA.png" height=100px weight=100px>
+            <p style='text-align: right; margin-right: 40em; font-family: Serif;'><b> Amplitude de Intervalo de Classe </b></p>
+        </td>
+    </tr>
+</table>
+
 ## Frequência Simples (f) 
+Valores que representam o número de dados em cada classe.
 
 <table align="center">
     <tr>
@@ -56,18 +77,19 @@ São intervalos de variação da variável. Pode ser calculada a partir da regra
 </table>
 
 
-## Frequência Relativa Simples (fr)
-
+## Frequência Relativa (fr)
+Valores das razões entre as frequências simples e a frequência total. 
 <table align="center">
     <tr>
         <td align="center"> 
             <img src="https://media.discordapp.net/attachments/1029775754407452754/1084554517045067866/opera_a4kwJYDAcx.png" height=100px weight=100px>
-            <p style='text-align: right; margin-right: 40em; font-family: Serif;'><b> Frequência Relativa Simples </b></p>
+            <p style='text-align: right; margin-right: 40em; font-family: Serif;'><b> Frequência Relativa </b></p>
         </td>
     </tr>
 </table>
 
 ## Frequência Acumulada (F) 
+É o total das frequências de todos os valores inferiores ao limite superior do intervalo de uma classe.
 
 <table align="center">
     <tr>
@@ -79,19 +101,21 @@ São intervalos de variação da variável. Pode ser calculada a partir da regra
 </table>
 
 
-## Frequência Relativa Acumulada (Fr)
+## Frequência Acumulada Relativa (Fr)
+É a frequência acumulada da classe, dividida pela frequência total da distribuição. 
 
 <table align="center">
     <tr>
         <td align="center"> 
             <img src="https://media.discordapp.net/attachments/1029775754407452754/1084554917152292957/opera_RWAzgsZ3vQ.png" height=100px weight=100px>
-            <p style='text-align: right; margin-right: 40em; font-family: Serif;'><b> Frequência Relativa Acumulada </b></p>
+            <p style='text-align: right; margin-right: 40em; font-family: Serif;'><b> Frequência Acumulada Relativa  </b></p>
         </td>
     </tr>
 </table>
 
 
 ## Ponto médio (Xi)
+É o ponto que divide o intervalo de uma classe em duas partes iguais.
 
 <table align="center">
     <tr>
